@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>842e5021-4f34-40f2-8832-fb9addc3531b</Guid>
+  <Name>Производство красок</Name>
+  <Description>Компания SM производит линию малярных красок на промышленных предприятиях на четырёх заводах. Готовая продукция поставляется в различные центры распределения, которые осуществляют оптовые продажи. Эти центры используются, чтобы пополнять запас в розничных магазинах компании.</Description>
+  <CreationDate>2018-12-12T20:55:45.0089431+03:00</CreationDate>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>12.12.2018 20:55:45</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate></RunDate>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>79e3cb08-c48f-4285-860d-1ca1dcde79b0</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>12.12.2018 20:55:45</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>
